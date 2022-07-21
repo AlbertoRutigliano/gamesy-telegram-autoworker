@@ -1,0 +1,1 @@
+# gamesy-telegram-autoworker
